@@ -1,7 +1,5 @@
 # PRODIGY_ML_02
 
-Certainly! Below is an example README file for your project. You can save this as a `.md` file.
-
 ```markdown
 # Mall Customer Segmentation using K-Means Clustering
 
