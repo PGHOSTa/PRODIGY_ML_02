@@ -27,7 +27,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 This project uses the dataset `Mall_Customers.csv` which contains information about customers such as their age, annual income, and spending score. Ensure the dataset is available in the directory or update the file path in the code to the correct location.
 
-###Dataset Overview:
+##Dataset Overview:
 
 ![k-means 4](https://github.com/user-attachments/assets/3788483c-0acf-41e9-ab05-81f24c07aecc)
 
